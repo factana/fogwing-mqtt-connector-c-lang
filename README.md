@@ -10,7 +10,7 @@
 - [Install vcpkg manager](https://vcpkg.io/en/getting-started.html) and above mentioned libraries.
 
 ### Step: 3
-- Download the fw_mqtt_conn.c 
+- Download the [fw_mqtt_conn.c](https://github.com/factana/fogwing-mqtt-connector-c-lang/blob/main/fw_mqtt_conn.c).
 
 ### Step: 4
 - Enter the [Fogwing](https://portal.fogwing.net/) IoTHub credentials.
