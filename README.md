@@ -1,6 +1,6 @@
 ## Fogwing-mqtt-client-c-lang (windows & linux)
 
-**Note:-** These SDKs are currently in preview and are subject to change.
+**Notes:-** These SDKs are currently in preview and are subject to change.
 
 ### Pre-requisites:
 - [MQTTClient.h](https://github.com/eclipse/paho.mqtt.c)
@@ -29,3 +29,5 @@
  
 - Now you are ready to analyze your data at [Fogwing Platform](https://portal.fogwing.net/) portal,
 you can check all the data within the data storage in the portal.
+
+**Note:-** To create C++ build of [fogwing-mqtt-client](https://github.com/factana/fogwing-mqtt-connector-c-lang/blob/main/fw_mqtt_conn.c), please follow the below link https://github.com/eclipse/paho.mqtt.cpp#building-the-paho-c-library-1 .
