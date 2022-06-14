@@ -1,4 +1,7 @@
-## Fogwing-mqtt-client-c-lang
+## Fogwing-mqtt-client-c-lang (windows & linux)
+
+**Note:-** These SDKs are currently in preview and are subject to change.
+
 ### Pre-requisites:
 - [MQTTClient.h](https://github.com/eclipse/paho.mqtt.c)
 - [json.h](https://github.com/json-c/json-c)
