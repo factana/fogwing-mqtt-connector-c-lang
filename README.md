@@ -31,3 +31,5 @@
 you can check all the data within the data storage in the portal.
 
 **Note:-** To create C++ build of [fogwing-mqtt-client](https://github.com/factana/fogwing-mqtt-connector-c-lang/blob/main/fw_mqtt_conn.c), please follow the below link https://github.com/eclipse/paho.mqtt.cpp#building-the-paho-c-library-1 .
+
+Please visit https://www.fogwing.io/industrial-iot-platform/ for more information about Fogwing Industrial IoT Platform.
