@@ -2,7 +2,7 @@
 #include <time.h>
 #include <json.h>
     
-#define HOST                "iothub.enterprise.fogwing.net:1883"
+#define HOST                "iothub.fogwing.net:1883"
 #define CLIENTID            "Enter Fogwing IoTHub client id"
 #define TOPIC               "Enter Fogwing IoTHub publish topic"
 #define QOS                 1
